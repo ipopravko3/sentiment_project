@@ -1,0 +1,13 @@
+# ignoring environment
+env/
+
+#ignoring pycache
+*__pycache__*
+# ignoring ds_store
+*.DS_Store
+
+# images
+*.jpg
+
+# models
+sentiment_app/models/
